@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Köpek Maması",
+            "description": "Sağlıklı Köpek Maması",
+            "price": 25,
+            "image": "https://ideacdn.net/idea/gl/07/myassets/products/009/energy5000-mockup-2023-on.jpg?revision=1723897103",
+            "category": "dog"
+        },
+        {
+            "id": 2,
+            "name": "Kedi Oyuncağı",
+            "description": "Eğlenceli Kedi Oyuncağı",
+            "price": 10,
+            "image": "https://productimages.hepsiburada.net/s/19/375-375/9846783606834.jpg",
+            "category": "cat"
+        },
+        {
+            "id": 3,
+            "name": "Kuş Kafesi",
+            "description": "5 yıldızlı Kuş Resortu",
+            "price": 50,
+            "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85/14166/uploads/urunresimleri/buyuk/imac-milly-kus-kafesi-pirinc---33x48cm-7f58.jpg",
+            "category": "bird"
+        },
+        {
+            "id": 4,
+            "name": "Kuş Kafesi-2",
+            "description": "4 yıldızlı Kuş Resortu",
+            "price": 50,
+            "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1360/product/media/images/prod/QC/20240610/10/7f246149-051d-33a1-af6d-a4c3f508355f/1_org.jpg",
+            "category": "bird"
+        },
+        {
+            "id": 5,
+            "name": "Kuş Kafesi",
+            "description": "5 Yıldızdan biraz az yıldızlı",
+            "price": 60,
+            "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85/14166/uploads/urunresimleri/buyuk/imac-ava-kus-kafesi-40x24x41cm-9c21.jpg",
+            "category": "bird"
+        }
+    ]
+}
